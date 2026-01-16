@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to LohBank accounts related PROD APIs!!!"
+  message: "Welcome to LohBank accounts related PROD APIs!"
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "{cipher}fe16975e93b718565255a394efc6774a651709442476f81aed48dc8144862d83f71874ea05d67800857ed85004001677"
